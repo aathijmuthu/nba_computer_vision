@@ -1,0 +1,4 @@
+# ignore ALL files in ANY directory named training
+training/
+models/
+yolov8x.pt
